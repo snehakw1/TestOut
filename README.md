@@ -1,2 +1,0 @@
-# TestOut
-Selenium Simulation Project
