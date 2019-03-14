@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92068" started-at="2019-03-14T04:29:07Z" finished-at="2019-03-14T04:30:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92068" started-at="2019-03-14T04:29:07Z" finished-at="2019-03-14T04:30:39Z">
+      <class name="projectTests.SetUpAnAccount">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:projectTests.SetUpAnAccount@675d3402]" name="setUp" is-config="true" duration-ms="73987" started-at="2019-03-13T22:27:53Z" finished-at="2019-03-13T22:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpAccount()[pri:0, instance:projectTests.SetUpAnAccount@675d3402]" name="setUpAccount" duration-ms="48792" started-at="2019-03-13T22:29:07Z" finished-at="2019-03-13T22:29:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpAccount -->
+        <test-method status="PASS" signature="testWIFI2()[pri:0, instance:projectTests.SetUpAnAccount@675d3402]" name="testWIFI2" duration-ms="43232" started-at="2019-03-13T22:29:56Z" finished-at="2019-03-13T22:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWIFI2 -->
+        <test-method status="PASS" signature="quitWindow()[pri:0, instance:projectTests.SetUpAnAccount@675d3402]" name="quitWindow" is-config="true" duration-ms="8218" started-at="2019-03-13T22:30:39Z" finished-at="2019-03-13T22:30:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitWindow -->
+      </class> <!-- projectTests.SetUpAnAccount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
